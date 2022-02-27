@@ -5,7 +5,7 @@ import requests
 import os
 
 os.system("clear")
-
+print("если программа не запускает атаку, а просто ожидает то сайт недоступен а это значит что очень хорошо")
 print("PRIMER http://putin.xui")
 input_user = input("[-] VVEDI ADDRESS CAITA >> ")
 
