@@ -6,7 +6,7 @@ import os
 
 os.system("clear")
 
-print("PRIMER https://putin.xui")
+print("PRIMER http://putin.xui")
 input_user = input("[-] VVEDI ADDRESS CAITA >> ")
 
 def main():
