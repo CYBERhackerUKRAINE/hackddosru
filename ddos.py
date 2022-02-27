@@ -4,6 +4,10 @@ import threading
 import requests
 import os
 
+#я буду вводить изменения, если вы хотите стать моим единомышлинником то пишите мне в element
+# @elliotanderson1337:matrix.org
+
+
 os.system("clear")
 print("если программа не запускает атаку, а просто ожидает то сайт недоступен а это значит что очень хорошо")
 print("PRIMER http://putin.xui")
